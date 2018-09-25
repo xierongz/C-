@@ -19,7 +19,7 @@ int main()
 
 void print_star()
 {
-    printf("*************************\n");
+    printf("************************\n");
 }
 
 void print_message()
